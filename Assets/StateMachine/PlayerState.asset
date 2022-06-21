@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 530e556d4407947dcae7102ff497587d, type: 3}
+  m_Name: PlayerState
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"graph":{"title":null,"summary":null,"pan":{"x":-123.181,"y":-33.46376},"zoom":0.9500001,"elements":[{"nest":{"source":"Macro","macro":0,"embed":null},"isStart":true,"position":{"x":-273.0,"y":-174.0},"width":170.0,"guid":"3a694dae-4737-4bf1-b083-127ebe38ac72","$version":"A","$type":"Unity.VisualScripting.FlowState"},{"nest":{"source":"Macro","macro":1,"embed":null},"isStart":true,"position":{"x":-268.0,"y":-11.0},"width":170.0,"guid":"14574509-28eb-4962-b00c-3d3980405c9d","$version":"A","$type":"Unity.VisualScripting.FlowState"}],"$version":"A"}}'
+    _objectReferences:
+    - {fileID: 11400000, guid: 5e55d9db662b018459ced870a706521e, type: 2}
+    - {fileID: 11400000, guid: ef063546b55450640975f524e0032722, type: 2}
